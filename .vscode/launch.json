@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/HelloWorld/bin/Debug/net7.0/HelloWorld.dll",
             "args": [],
             "cwd": "${workspaceFolder}/HelloWorld",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
